@@ -46,6 +46,7 @@
 
 ### Blender + アドオン (3DGS Render by KIRI Engine) を使う
 1. 以下のリンク -> Releases から適当なバージョンのアドオンの `.zip` をダウンロードする
+    - https://github.com/Kiri-Innovation/3dgs-render-blender-addon
 1. ダウンロードした zip ファイルを Blender にドラッグアンドドロップし、アドオンをインストールする
 1. 念のため、アドオンインストール後は Blender を再起動する
 1. 3D Viewport の右側の小さな `<` みたいなのを左にドラッグし、 `3DGS Render` のタブを押す
